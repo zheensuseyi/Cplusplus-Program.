@@ -10,7 +10,7 @@ This project went perfectly and was the only project where I received a perfect 
 
 I could have definetly made my code neater that is an issue I have especially when it comes to making functions. As for making my code more secure, all of my functions and variables are public so that may not be completely secure and is something I would implement in the future. As I code more and learn more I think this project would look completely different and definetly be a lot neater.
 
-*4.Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?*
+*4. Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?*
 
 The pieces of code I found the most challenging to write was definetly my nested for loops which I needed to fill out my data tables. It was a constant struggle of trial and error and looking up examples of nested for loops on google and youtube that I was finally able to figure out what I was doing wrong and implement it in my code. Google and youtube have been a huge help to me throughout my coding journey and I am sure that if I am blessed enough to get a programming job these resources will continue helping.
 
